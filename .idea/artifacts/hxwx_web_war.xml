@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hxwx-web:war">
+    <output-path>$PROJECT_DIR$/../../版本管理/svn/和e付epay目录_svn_new/微信/wxin_pubic/hxwx/hxwx-web/target</output-path>
+    <root id="archive" name="hxwx-web.war">
+      <element id="artifact" artifact-name="hxwx-web:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="casdemo" />
+        <module name="core" />
+        <module name="datafilter-common" />
+        <module name="datafilter-dao" />
+        <module name="datafilter-entity" />
+        <module name="datafilter-service" />
+        <module name="datafilter-web" />
+        <module name="exceltoword" />
+        <module name="hxwx-util" />
+        <module name="hxwx-web" />
+        <module name="jsapi" />
+        <module name="jsapi-common" />
+        <module name="jsapi-dao" />
+        <module name="jsapi-entity" />
+        <module name="jsapi-service" />
+        <module name="pointQuartz" />
+        <module name="springboot_demo" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="casDemo" target="1.8" />
+      <module name="casdemo" target="1.8" />
+      <module name="core" target="1.7" />
+      <module name="datafilter-common" target="1.8" />
+      <module name="datafilter-dao" target="1.8" />
+      <module name="datafilter-entity" target="1.8" />
+      <module name="datafilter-root" target="1.8" />
+      <module name="datafilter-service" target="1.8" />
+      <module name="datafilter-web" target="1.8" />
+      <module name="exceltoword" target="1.8" />
+      <module name="excletoword" target="1.8" />
+      <module name="hxwx" target="1.8" />
+      <module name="hxwx-util" target="1.8" />
+      <module name="hxwx-web" target="1.8" />
+      <module name="jsapi" target="1.6" />
+      <module name="jsapi-common" target="1.6" />
+      <module name="jsapi-dao" target="1.6" />
+      <module name="jsapi-entity" target="1.6" />
+      <module name="jsapi-root" target="1.6" />
+      <module name="jsapi-service" target="1.6" />
+      <module name="pointQuartz" target="1.8" />
+      <module name="share-beans" target="1.8" />
+      <module name="share-beans (2)" target="1.8" />
+      <module name="share-common" target="1.8" />
+      <module name="share-common (2)" target="1.8" />
+      <module name="share-dal" target="1.8" />
+      <module name="share-dal (2)" target="1.8" />
+      <module name="share-rest" target="1.8" />
+      <module name="share-rest (2)" target="1.8" />
+      <module name="share-root" target="1.8" />
+      <module name="share-service" target="1.8" />
+      <module name="share-service (2)" target="1.8" />
+      <module name="springboot_demo" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

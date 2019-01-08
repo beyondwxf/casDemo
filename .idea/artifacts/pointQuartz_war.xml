@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="pointQuartz:war">
+    <output-path>$PROJECT_DIR$/../../版本管理/git/companyNew/stockmatch_curr/pointQuartz/target</output-path>
+    <root id="archive" name="pointQuartz-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="pointQuartz:war exploded" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.hexun.yewu:order-service:0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hexun/yewu/order-service/0.0.1-SNAPSHOT/order-service-0.0.1-20181113.090305-321.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hexun/yewu/order-service/0.0.1-SNAPSHOT/order-service-0.0.1-20181113.090305-321-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hexun/yewu/order-service/0.0.1-SNAPSHOT/order-service-0.0.1-20181113.090305-321-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

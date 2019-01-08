@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.hexun.busi:busi-common-redis:0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hexun/busi/busi-common-redis/0.0.1-SNAPSHOT/busi-common-redis-0.0.1-20181113.084626-13.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hexun/busi/busi-common-redis/0.0.1-SNAPSHOT/busi-common-redis-0.0.1-20181113.084626-13-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/hexun/busi/busi-common-redis/0.0.1-SNAPSHOT/busi-common-redis-0.0.1-20181113.084626-13-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

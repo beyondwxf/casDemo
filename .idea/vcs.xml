@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../../版本管理/git/companyNew/stockmatch_curr" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../版本管理/git/companyNew/wx_share" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../版本管理/git/gitee/cpexcel" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../版本管理/git/gitee/exceltoword" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../版本管理/svn/和e付epay目录_svn_new/jsapi/jsapi-dev" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../../版本管理/svn/和e付epay目录_svn_new/微信/wxin_pubic/hxwx" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../../版本管理/svn/和e付epay目录_svn_new/微信/wxin_pubic/springboot_demo" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/../../版本管理/svn/和e付epay目录_svn_new/核心工具包/core" vcs="svn" />
+  </component>
+</project>
