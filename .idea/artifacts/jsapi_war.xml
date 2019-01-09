@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="war" name="jsapi:war">
-    <output-path>$PROJECT_DIR$/../../版本管理/svn/和e付epay目录_svn_new/jsapi/jsapi-dev/jsapi/target</output-path>
-    <root id="archive" name="jsapi-0.0.1-SNAPSHOT.war">
-      <element id="artifact" artifact-name="jsapi:war exploded" />
-    </root>
-  </artifact>
-</component>

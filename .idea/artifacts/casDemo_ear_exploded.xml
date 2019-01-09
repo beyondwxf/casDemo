@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="exploded-ear" name="casDemo:ear exploded">
-    <output-path>$PROJECT_DIR$/out/artifacts/casDemo_ear_exploded</output-path>
-    <root id="root">
-      <element id="javaee-facet-resources" facet="casDemo/javaeeApplication/javaEEApplication" />
-    </root>
-  </artifact>
-</component>
